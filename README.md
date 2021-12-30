@@ -1,5 +1,5 @@
 # React Native In App Purchase HowTo
 
 ## Android
-### business conole
-visit [Business Console](https://pay.google.com/business/console) and add your business profile
+### G Pay Business
+Visit [Business Console](https://pay.google.com/business/console). Create a new business, then complete the Business Profile.
